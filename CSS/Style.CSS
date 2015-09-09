@@ -121,3 +121,6 @@ body{
 #navbar-transparent .navbar-brand:focus {
   color: white;
 }
+#formulaire{
+	padding: 90px;
+}
